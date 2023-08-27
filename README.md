@@ -1,4 +1,4 @@
-FloraAPI - Your Plant Care Companion 🌿
+🌱 FloraAPI - Your Plant Care Companion 🌿
 
 FloraAPI is your digital plant whisperer! 🌼 Get ready to shower your leafy friends with love and care. This vibrant REST API offers watering schedules, care tips, and even helps troubleshoot those pesky yellowing leaves. Let's grow together! 🌵🌸
 
