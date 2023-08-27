@@ -20,9 +20,8 @@ Clone, install Flask, and dive into the world of green thumbs:
 ## 🌵 Example Usage
 
 Request:
-```
 GET /plants/rose
-```
+
 
 Response:
 ```json
