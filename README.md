@@ -1,7 +1,7 @@
 
-# 🌱 FloraPro API - Advanced Plant Care Management 🌿
+# 🌱 Flora API - Advanced Plant Care Management 🌿
 
-FloraPro API takes plant care to the next level, providing a comprehensive platform for plant enthusiasts. From personalized care plans to automated alerts, it's a one-stop solution for nurturing your botanical friends.
+Flora API takes plant care to the next level, providing a comprehensive platform for plant enthusiasts. From personalized care plans to automated alerts, it's a one-stop solution for nurturing your botanical friends.
 
 ## 🚀 Getting Started
 
